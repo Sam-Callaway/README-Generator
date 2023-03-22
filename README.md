@@ -6,9 +6,10 @@ You can test it out by forking this repo and running node index.js on your local
 
 ![image](https://user-images.githubusercontent.com/118125767/226972452-fcf0e0a6-8fbc-49e3-b85a-06e689fb2476.png)
 
+Or you can see a recording of it working here: https://drive.google.com/file/d/1OOzeoJLkbaKjMjpb4nmxLgFaYrYBF8b7/view?usp=sharing
 
-Licence
+## Licence
 MIT Licence
 
-Credits
+## Credits
 N/A
